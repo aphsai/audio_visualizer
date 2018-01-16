@@ -2,4 +2,4 @@
 
 Utilizes Javascript, FileIO and Canvas.
 
-Demo at: www.aphsai.github.io/audiovisualizer
+Demo at: aphsai.github.io/audiovisualizer
