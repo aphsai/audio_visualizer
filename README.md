@@ -1,4 +1,4 @@
-#Audio Visualizer
+# Audio Visualizer
 
 Utilizes Javascript, FileIO and Canvas.
 
